@@ -1,1 +1,1 @@
-# Homework
+- Where Penn LPS Bootcamp homework is stored
