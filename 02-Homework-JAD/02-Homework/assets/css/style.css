@@ -120,6 +120,7 @@ p {
 }
 
 .benefit-style {
+    height: 100%;
     margin-bottom: 38px;
     color: #ffffff;
 }
